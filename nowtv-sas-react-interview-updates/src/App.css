@@ -1,0 +1,15 @@
+.AppContainer {
+  text-align: left;
+}
+
+h1 {
+  text-align: center;
+  font-size: 3em;
+}
+
+#box {
+  padding-top: 10px;
+  padding-bottom: 20px;  
+}
+
+
